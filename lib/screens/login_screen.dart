@@ -64,6 +64,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 height: 48.0,
               ),
               TextField(
+                  keyboardType:TextInputType.emailAddress ,
                 controller: _email,
                 onChanged: (value) {
                   //Do something with the user input.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835626304813",
+    "project_id": "fast-chat-6f800",
+    "storage_bucket": "fast-chat-6f800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835626304813:android:42fa8fd54733d6fb54bfa4",
+        "android_client_info": {
+          "package_name": "com.example.fast_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuACvr7txXe2-KUREf11wjiY3Mgl_Ln2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
